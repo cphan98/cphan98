@@ -1,6 +1,6 @@
-👋🏻 Hi, I’m Cynthia!
-👩🏻‍💻 I'm a student in BSc Computer Science @ UdeM.
-💡 I’m interested in Frontend and UX development.
+👋🏻 Hi, I’m Cynthia! <br>
+👩🏻‍💻 I'm a student in BSc Computer Science @ UdeM. <br>
+💡 I’m interested in Frontend and UX development. <br>
 🌱 I’m currently learning web development, particularly interested in React.
 
 <!---
